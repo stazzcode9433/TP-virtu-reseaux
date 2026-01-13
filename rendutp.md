@@ -307,9 +307,8 @@ MTU         : 1500
 Depuis votre machine attaquante, effectuez un ARP poisoning
 🌞 Proof !
 
-    montrer l'attaque qui est menée
-
-    la preuve que vous pouvez écrire ce que vous voulez dans la table ARP d'un client donné en affichant la table ARP de la victime avant et après empoisonnement
+montrer l'attaque qui est menée
+la preuve que vous pouvez écrire ce que vous voulez dans la table ARP d'un client donné en affichant la table ARP de la victime avant et après empoisonnement
 
 ```
 VPCS> show arp
